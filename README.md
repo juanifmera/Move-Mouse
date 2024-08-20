@@ -1,4 +1,3 @@
-AutoCursorMover
 🚀 Welcome to the AutoCursorMover Project! 🚀
 
 This project features a Python script designed to automate the movement of the mouse cursor across the screen. Ideal for those looking to keep their computer active or simulate user activity for various purposes.
